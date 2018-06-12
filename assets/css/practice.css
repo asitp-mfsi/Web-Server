@@ -1,0 +1,114 @@
+body{
+
+background-image:url("../images/lightbackground.jpg");
+background-size: cover;
+background-position:fixed;
+background-attachment:fixed;
+
+}
+
+#header1
+{
+	text-align:center;
+	font-size:45px;
+	color:white;
+}
+
+#link{
+
+background-color:white;
+
+}
+p{
+
+border:10px solid red;
+padding:10px;
+
+}
+#options
+{
+	position:fixed;
+	top:0;
+	width:100%;
+	background-color:white;
+}
+#options ul
+{
+	float:right;
+	border:10px solid white;
+	
+}
+#head{
+	float:left;
+	top=0;
+	color:black;
+	position:fixed;
+}
+	
+#options li
+{
+	margin-right:10px;
+	text-align:center;
+	display:inline;
+	font-size:25px;
+	border:5px solid black;
+	padding:5px;
+	
+}
+
+#options ul li a:hover
+{
+	background-color:grey;
+	color:white;
+}
+
+#options ul li a:active
+{
+	background-color:grey;
+	color:white;
+}
+
+#nextpage
+{
+	text-align:center;
+}
+
+#btncen
+{
+	margin-left:48%;
+	margin-right:50%;
+}
+
+div.floating
+{
+	margin-top:120px;
+	float:left;
+	color:white;
+	
+}
+div.floating1
+{
+	margin-top:80px;
+	float:left;
+	border:none;
+	font-size:25px;
+	text-align:center;
+	margin-left:40%;
+	margin-right:40%;
+	color:white;
+}
+.pic
+{
+	float:right;
+	margin-top:100px;
+}
+#sub{
+	
+	float:right;
+	
+}
+#subm
+{
+	height:50px;
+	width:100px;
+}
